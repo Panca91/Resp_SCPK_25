@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
-import skfuzzy as fuzz
-import skfuzzy.control as ctrl
+# import skfuzzy as fuzz
+# import skfuzzy.control as ctrl
 import matplotlib.pyplot as plt
 import pandas as pd
 
